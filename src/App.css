@@ -1,0 +1,189 @@
+.hheading
+{
+  margin-left: -100px;
+  background-color: black;
+  color: white !important;
+  padding: 10px;
+  border-radius: 7px;
+  margin-right:150px !important;
+}
+
+.proContainer{
+  margin: 60px;
+}
+.navbarApni{
+  display: block;
+  float: right !important;
+  margin-right: 10px !important;
+}
+.image
+{
+  width: 300px; 
+  height: auto; 
+  display: block; 
+  margin: 20px auto;
+}
+.ProductImage
+{ 
+  margin-top: 15px;
+  width: 350px; 
+  margin-left: -30px !important;
+}
+.ProductDiv
+{
+  width:400px;
+  float:right;
+}
+.headerHeading
+{
+  text-align: center;
+}
+.reqList {
+  align-self: center;
+}
+.shopTemplate{
+  margin-top: 10px; 
+}
+.Pdetails
+{
+  /* width: 60%; */
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;}
+.Pbuttons
+{
+  width: 60%;
+  padding-left: 200px;
+}
+.PHeading
+{
+  text-align: center;
+  padding-top: 50px;
+}
+.Simage
+{
+  
+  width: 300px; 
+ margin-top: 0px;
+  float: right;
+  flex-direction: column;
+}
+.ShowProducts
+{
+  float: right;
+}
+.ShopImage
+{
+  width: 400px; 
+  margin-top: 0px;
+  margin-left: -150px;
+}
+.ImgContainer{
+  float:right;
+  width:300px;
+  margin-top: 0px;
+  flex-direction: column;
+}
+.ShopButton{
+  margin-top: 50px !important;
+  margin-left: -46px !important;
+}
+.UShopButton
+{
+  float: left;
+}
+.buttonCss
+{
+  background-color:#f55666 !important;
+}
+.buttonCss:hover {
+  color: white !important;
+}
+.active{
+  color:black;
+  font-weight: bold;   
+  font-size: large;
+}
+.footer {
+  text-align: center;
+  background-color: #f54859;
+  color: rgb(10, 10, 10);
+ width:100%;
+ position: fixed;
+ bottom:0;
+ overflow: none;
+}
+.fimage{
+  width: 150px; 
+  height: auto; 
+  display: block; 
+  margin: 5px auto;
+}
+
+.shopTempDiv{
+  margin-left: 50px;
+  display:flex;
+  flex-direction: column;
+}
+
+.optionCat{
+ width: 550px;
+ border-color:black;
+ margin-left: 5px;
+ margin-top: 10px;
+ background-color: rgb(236, 232, 232);
+ height: 50px;
+ padding-left: 10px;
+}
+
+.logout
+{
+  background-color:black !important;
+}
+.CSimage{
+ 
+  display:flex;
+  flex-direction: row;
+}
+.MorevertButton{
+  color:#f54859 !important;
+}
+.popup-box {
+  position: fixed;
+  background: #00000050;
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+}
+ 
+.box {
+  position: relative;
+  width: 70%;
+  margin: 0 auto;
+  height: auto;
+  max-height: 70vh;
+  margin-top: calc(100vh - 85vh - 20px);
+  background: #fff;
+  border-radius: 4px;
+  padding: 20px;
+  border: 1px solid #999;
+  overflow: auto;
+}
+ 
+.close-icon {
+  content: 'x';
+  cursor: pointer;
+  position: fixed;
+  right: calc(15% - 30px);
+  top: calc(100vh - 85vh - 33px);
+  background: #ededed;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  line-height: 20px;
+  text-align: center;
+  border: 1px solid #999;
+  font-size: 20px;
+}
